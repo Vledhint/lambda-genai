@@ -1,0 +1,4 @@
+*.swp
+*.swo
+.aws-sam/
+.aws-sam
